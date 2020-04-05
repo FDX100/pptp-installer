@@ -10,6 +10,8 @@ print('''
  | |   | |       | |                        | |    
  |_|   |_|       |_|                        |_| 
 install PPTPD
+made by FDX100
+github.com/FDX100
 ''')
 ask = raw_input('to start install press (y) >> ')
 if ask=='y' or ask=='Y':
